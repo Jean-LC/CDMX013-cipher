@@ -1,19 +1,21 @@
-#Cifrado César
+# Cifrado César
 
-##Índice
-- [1. Preámbulo](#1-preámbulo)
-- [2. Resumen del proyecto](#2-resumen-del-proyecto)
-- [3. Proceso de diseño](#3-proceso-de-diseño)
-  - [Maquetación](#maquetación)
-  - [Código](#código)
-- [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-  - [HTML](#html)
-  - [CSS](#css)
-  - [Web APIs](#web-apis)
-  - [JavaScript](#javascript)
-  - [Control de versiones](#control-de-versiones)
-  - [User-centricity](#user-centricity)
-  - [product-design](#product-design)
+## Índice
+- [Cifrado César](#cifrado-césar)
+  - [Índice](#índice)
+  - [1. Preámbulo](#1-preámbulo)
+  - [2. Resumen del proyecto](#2-resumen-del-proyecto)
+  - [3. Proceso de diseño](#3-proceso-de-diseño)
+    - [Maquetación](#maquetación)
+    - [Código](#código)
+  - [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [Web APIs](#web-apis)
+    - [JavaScript](#javascript)
+    - [Control de versiones](#control-de-versiones)
+    - [User-centricity](#user-centricity)
+    - [product-design](#product-design)
 
 ## 1. Preámbulo
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
