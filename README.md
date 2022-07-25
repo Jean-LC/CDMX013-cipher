@@ -52,37 +52,37 @@ Posteriormente en el JavaScript agregamos las funciones de los botones y elabora
 ## Objetivos de aprendizaje
 
 ### HTML
-[ ] Uso de HTML semántico
+[X] Uso de HTML semántico
 
 ### CSS
-[ ] Uso de selectores de css
-[ ] Modelo de caja
+* [ ] Uso de selectores de css
+* [X] Modelo de caja
 
 ### Web APIs
-[ ] Uso de selectores del DOM
-[ ] Manejo de eventos del DOM
-[ ] Manipulación dinámica del DOM
+* [X] Uso de selectores del DOM
+* [X] Manejo de eventos del DOM
+* [X] Manipulación dinámica del DOM
 
 ### JavaScript
-[ ] Tipos de datos primitivos
-[ ] Strings
-[ ] Variables
-[ ] Uso de condicionales
-[ ] Uso de bucles
-[ ] Funciones
-[ ] Pruebas unitarias
-[ ] Módulos ECMAscript
-[ ] Uso de linter
-[ ] Uso de identificadores descriptivos
+* [X] Tipos de datos primitivos
+* [ ] Strings
+* [X] Variables
+* [X] Uso de condicionales
+* [ ] Uso de bucles
+* [X] Funciones
+* [ ] Pruebas unitarias
+* [X] Módulos ECMAscript
+* [ ] Uso de linter
+* [ ] Uso de identificadores descriptivos
 
 ### Control de versiones
-[ ] Instalación y configuración de git
-[ ] Control de versiones con git
-[ ] Github
+* [X] Instalación y configuración de git
+* [ ] Control de versiones con git
+* [X] Github
 
 ### User-centricity
-[ ] Diseñar un producto o servicio poniendo a la usuaria en el centro
+* [X] Diseñar un producto o servicio poniendo a la usuaria en el centro
 
 ### product-design
-[ ] Crear prototipos de alta fidelidad que incluyan interacciones
-[ ] Seguir los principios básicos de diseño visual
+* [ ] Crear prototipos de alta fidelidad que incluyan interacciones
+* [X] Seguir los principios básicos de diseño visual
