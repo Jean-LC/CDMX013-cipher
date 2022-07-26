@@ -52,7 +52,7 @@ Posteriormente en el JavaScript agregamos las funciones de los botones y elabora
 ## Objetivos de aprendizaje
 
 ### HTML
-[X] Uso de HTML semántico
+* [X] Uso de HTML semántico
 
 ### CSS
 * [ ] Uso de selectores de css

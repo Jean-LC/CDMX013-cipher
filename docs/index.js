@@ -12,7 +12,7 @@ codeA.addEventListener("click", function() {
 
     if ( offset==0) {
       document.getElementById("mensajeResultado").innerHTML=("Por favor, escribe un número");
-      return;}
+      return;} 
 
    document.getElementById("mensajeResultado").innerHTML= (cipher.encode(offset,mensaje)) 
 })

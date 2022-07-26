@@ -9,7 +9,7 @@
   }
 
 
-  .containerBase {
+  main {
     background-color: #292929;
     height: 100%;
     width: 100%;
@@ -21,10 +21,6 @@
     align-items: center;
   }
 
-  .containerA {
-    padding: 50px 50px;
-    margin: 10px 10px;
-  }
 
   .btnCode {
     background-color: #C95D63;

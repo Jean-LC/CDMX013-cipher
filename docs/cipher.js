@@ -45,7 +45,7 @@ const cipher = {
         let mensajeBase2 = mensaje2.charCodeAt(i);
        
         if (mensajeBase2 >= 65 && mensajeBase2 <= 90){
-        let mensajeAltas2=String.fromCharCode((( mensajeBase2 + 65 - newOffset2) % 26 )  + 65)
+        let mensajeAltas2=String.fromCharCode(( mensajeBase2 + 65 - newOffset2) % 26   + 65)
         resultado2 += mensajeAltas2;
 
       } else { 
